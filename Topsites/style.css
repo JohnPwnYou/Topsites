@@ -1,0 +1,41 @@
+body{background:#f6f6f6 url(http://lulzfeed.com/wp-content/themes/Avenue/images/patterns/pattern6.png) repeat;background-attachment:fixed;color:#000;font-family:Verdana;font-size:10px;margin:0;padding:0}
+hr{background-color:#CCC;border:0;height:1px;margin:10px 0}
+.reset{clear:both}
+.null{margin:0;padding:0}
+a:link,a:visited{color:#000;text-decoration:none}
+a:hover,a:active{color:#000;text-decoration:underline}
+#adSpace{background-color:#000;padding:10px;text-align:center}
+#topNavigation{background:-moz-linear-gradient(top,#CC0000,#990000);background:-webkit-gradient(linear,left top,left bottom,from(#CC0000),to(#990000));filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#CC0000',endColorstr='#990000');border-bottom:2px solid #FFF;border-top:2px solid #FFF;height:40px;margin-bottom:10px}
+#topNavigationRight{float:right;padding-top:14px}
+#topNavigationLeft{float:left;padding-top:14px}
+#contentRight{float:right;width:300px}
+#contentLeft{float:center;width:532px}
+.contentHolder{background-color:#FFF;border:1px solid #CCC;border-radius:5px;margin-bottom:10px;padding:10px}
+.contentHeader{font-weight:700;text-shadow:0 0 2px #000;background:-moz-linear-gradient(top,#800080,#000000);background:-webkit-gradient(linear,left top,left bottom,from(#222222),to(#000000));filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#222222',endColorstr='#000000');border-radius:3px 3px 0 0;color:#FFF;margin:-11px -11px 10px -11px;padding:10px}
+#footer{margin:0;width:840px}
+.stayStill.fixed{position:fixed;top:10px;width:300px}
+#topNavigationWrapper a:link{color:#FFF;font-weight:700;text-decoration:none;text-shadow:0 0 2px #000}
+#topNavigationWrapper a:visited{color:#FFF;font-weight:700;text-decoration:none}
+.stats{display:none;background-color:#F3F3F3;border:1px solid #CCC;border-radius:3px;margin:10px 0;padding:10px}
+.statsBox{background-color:#F3F3F3;border:1px solid #CCC;padding:10px}
+.join_edit_error{background-color:#f0f0f0;border:1px solid red;border-radius:5px;padding:10px}
+#topNavigationWrapper,#contentWrapper{margin:auto;width:840px}
+#topNavigationLeft a:hover,.contentHeader a:hover{text-decoration:underline}
+.contentHeader a:link,.contentHeader a:visited{color:#FFF;text-decoration:none}
+.stars{background:url(http://skins.thehabbos.org/new/stars.gif);margin-top:3px}
+.star_0{width:88px;height:16px}
+.star_1{width:17px;height:16px;background-position-y:16px}
+.star_2{width:35px;height:16px;background-position-y:16px}
+.star_3{width:53px;height:16px;background-position-y:16px}
+.star_4{width:71px;height:16px;background-position-y:16px}
+.star_5{width:88px;height:16px;background-position-y:16px}
+.mainLinks{background:-moz-linear-gradient(top,#FFFFFF,#F3F3F3);background:-webkit-gradient(linear,left top,left bottom,from(#FFFFFF),to(#F3F3F3));filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF',endColorstr='#F3F3F3');border-radius:5px;padding:5px;border:1px solid #CCCCCC;margin-bottom:10px;}
+.noMargin{margin-bottom:0px}
+#topSearchArea{background:-moz-linear-gradient(top,#F3F3F3,#FFFFFF);background:-webkit-gradient(linear,left top,left bottom,from(#F3F3F3),to(#FFFFFF));filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#F3F3F3',endColorstr='#FFFFFF');border-radius:5px;padding:5px;border:1px solid #CCCCCC;font-family:Verdana;font-size:10px;margin-right:5px;width:205px}
+#topSearchButton{border:0px;border-radius:5px;padding:6px;background:-moz-linear-gradient(top,#CC0000,#990000);background:-webkit-gradient(linear,left top,left bottom,from(#CC0000),to(#990000));filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#CC0000',endColorstr='#990000');font-family:Verdana;font-size:10px;margin:0px;color: #FFFFFF;}
+.preset{font-style:italic;color:grey}
+.loadMoreBox{background:-moz-linear-gradient(top,#0066CC,#003399);background:-webkit-gradient(linear,left top,left bottom,from(#0066CC),to(#003399));filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#0066CC',endColorstr='#003399');padding:10px;margin-bottom:10px;border-radius:5px}
+.loadMoreBox a:link{color:#FFF;font-weight:700;text-decoration:none;text-shadow:0 0 2px #000}
+.loadMoreBox a:visited{color:#FFF;font-weight:700;text-decoration:none}
+.loadMoreBox a:hover{color:#FFF;font-weight:700;text-decoration:underline}
+.icon_fix{margin-bottom:-5px;margin-right:5px}
